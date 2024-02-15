@@ -1,1 +1,1 @@
-# tecnico-ulisboa-quantum-computation-information-and-logic
+# Tecnico ULisboa - Quantum Computation, Information and Logic
